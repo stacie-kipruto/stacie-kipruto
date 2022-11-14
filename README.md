@@ -15,7 +15,7 @@
 
 ## Technical Work:
 - Blog: [Medium](https://medium.com/@staciekipruto)
-- Dashboards: [Tableau](https://public.tableau.com/app/profile/stacey.kipruto
+- Dashboards: [Tableau](https://public.tableau.com/app/profile/stacey.kipruto)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stacie-kipruto&theme=radical"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stacie-kipruto&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
