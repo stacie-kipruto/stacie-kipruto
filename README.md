@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=stacie-kipruto&label=Visitor+Count&color=ff3a7c&style=plastic)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Data+Analyst; Data+Scientist;Melomaniac)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Data+Analyst;Data+Scientist;Melomaniac;)](https://git.io/typing-svg)
 
 ## About me
 * :heart: **Loves:** Dogs
