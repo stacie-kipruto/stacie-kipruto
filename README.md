@@ -1,14 +1,14 @@
-# <span style="color: rgb(271,58,124)">Stacie Kipruto, Talk Data To Me!</span> :relaxed:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stacey-cherop/)
+# <span style="color: rgb(271,58,124)">Stacie Kipruto: Talk Data To Me!</span> :relaxed:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stacey-cherop/)
 
 
 ![](https://komarev.com/ghpvc/?username=stacie-kipruto&label=Visitor+Count&color=ff3a7c&style=plastic)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Data+Analyst;Data+Scientist;Melomaniac;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Ever+Curious;Data+Analyst;Data+Scientist;Melomaniac;)](https://git.io/typing-svg)
 
 ## About
 * :heart: **Loves:** Dogs
 * :pushpin: **Location:** Nairobi, Kenya :kenya:
-* **Current activity:** Getting ESRI Certified :earth_africa:
+* **Current activity:** Software Engineering student at ALX (Africa Cohort 5)
 * **Next stop:** Geospatial Data Engineer :computer:
 * **Final destination:** World :earth_africa:
 
