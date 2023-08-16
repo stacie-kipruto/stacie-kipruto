@@ -8,7 +8,7 @@
 ## About
 * :heart: **Loves:** Dogs
 * :pushpin: **Location:** Nairobi, Kenya :kenya:
-* **Current activity:** Software Engineering student at ALX (Africa Cohort 5)
+* **Current activity:** Working with Banking data
 
 ## Technical Work:
 - Blog: [Medium](https://medium.com/@staciekipruto)
