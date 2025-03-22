@@ -7,7 +7,8 @@
 
 ## About
 * :heart: **Loves:** Dogs
-* :pushpin: **Location:** Nairobi, Kenya :kenya:
+* :pushpin: **Location:** Sydney, Australia :australia:
+* 🧑‍🎓 **Current activity:** Studying my Masters Degree 
 * :woman_technologist: **Current activity:** Working with Financial & Banking Data 💸💰
 
 ## Technical Work:
