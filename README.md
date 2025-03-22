@@ -1,4 +1,4 @@
-# <span style="color: rgb(271,58,124)">Stacie Kipruto: Talk Data To Me!</span> :relaxed:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stacey-cherop/)
+# <span style="color: rgb(271,58,124)">Stacie Kipruto: Talk Data To Me!</span> :relaxed:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stacie-kipruto/)
 
 
 <!--![](https://komarev.com/ghpvc/?username=stacie-kipruto&label=Visitor+Count&color=ff3a7c&style=plastic) -->
